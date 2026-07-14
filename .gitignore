@@ -1,0 +1,32 @@
+# =========================
+# .NET / C# (Rider & VS)
+# =========================
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.suo
+TestResults/
+
+# =========================
+# Playwright
+# =========================
+test-results/
+playwright-report/
+blob-report/
+
+# =========================
+# Python & AI Agents
+# =========================
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
